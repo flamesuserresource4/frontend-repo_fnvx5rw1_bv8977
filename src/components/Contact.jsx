@@ -10,7 +10,7 @@ export default function Contact() {
     e.preventDefault();
     const subject = encodeURIComponent(`Hello from ${name || "your website"}`);
     const body = encodeURIComponent(`${message}\n\nFrom: ${name} (${email})`);
-    window.location.href = `mailto:hello@example.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:Thoriqilhamk?subject=${subject}&body=${body}`;
   };
 
   return (
@@ -24,7 +24,7 @@ export default function Contact() {
           </p>
 
           <div className="mt-6 space-y-3 text-gray-700">
-            <p className="flex items-center gap-2"><Mail className="text-indigo-600" size={18} /> hello@example.com</p>
+            <p className="flex items-center gap-2"><Mail className="text-indigo-600" size={18} /> Thoriqilhamk</p>
             <p className="flex items-center gap-2"><MapPin className="text-indigo-600" size={18} /> Remote / Worldwide</p>
           </div>
         </div>

@@ -35,7 +35,7 @@ export default function Projects() {
             <p className="mt-2 text-gray-600">A few highlights from recent builds and experiments.</p>
           </div>
           <a
-            href="mailto:hello@example.com?subject=Project%20inquiry"
+            href="mailto:Thoriqilhamk?subject=Project%20inquiry"
             className="hidden whitespace-nowrap rounded-lg border border-gray-300 bg-white px-4 py-2 text-sm font-medium text-gray-800 shadow-sm transition hover:border-gray-400 md:block"
           >
             Available for freelance

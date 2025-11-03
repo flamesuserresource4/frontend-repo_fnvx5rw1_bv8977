@@ -11,7 +11,7 @@ export default function Hero() {
               <span>Available for new opportunities</span>
             </div>
             <h1 className="mt-6 text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-6xl">
-              Hi, I’m <span className="text-indigo-600">Your Name</span>
+              Hi, I’m <span className="text-indigo-600">Thoriq Ilham Kurniawan</span>
             </h1>
             <p className="mt-4 text-lg leading-relaxed text-gray-600">
               I build clean, modern web experiences focused on performance and delightful user
@@ -25,7 +25,7 @@ export default function Hero() {
                 View my work <ArrowRight size={18} />
               </a>
               <a
-                href="mailto:hello@example.com"
+                href="mailto:Thoriqilhamk"
                 className="inline-flex items-center gap-2 rounded-lg border border-gray-300 bg-white px-5 py-3 text-gray-800 shadow-sm transition hover:border-gray-400"
               >
                 <Mail size={18} /> Contact me
@@ -57,7 +57,7 @@ export default function Hero() {
             <div className="aspect-square w-full rounded-2xl bg-gradient-to-br from-indigo-200 via-white to-indigo-100 p-2 shadow-inner">
               <div className="flex h-full w-full items-center justify-center rounded-xl bg-white shadow">
                 <div className="flex h-40 w-40 items-center justify-center rounded-full bg-indigo-600 text-5xl font-bold text-white">
-                  YN
+                  TK
                 </div>
               </div>
             </div>
